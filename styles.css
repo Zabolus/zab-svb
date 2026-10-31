@@ -1,0 +1,129 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    background-color: #61988E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    border-radius: 20px; 
+    overflow: hidden;    
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2); 
+}
+
+
+#svendborg-havn {
+    margin-top: 0px;
+    padding-top: 0px;
+    background-image: url("./images/Svendborg-Havn.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 900px;
+    overflow: hidden;
+}
+
+#svendborg{
+    padding: 250px 0px 0px 0px;
+    text-align: center;
+    color: white;
+    text-shadow: black 0px 0px 14px;
+    margin-bottom: 0px;
+}
+
+#natur{
+    margin-top: 0px;
+    padding-top: 0px;
+    text-align: center;
+    color: white;
+    text-shadow: black 0px 0px 14px;
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+#to-do {
+    margin-top: 0px;
+    text-align: center;
+}
+
+.middle {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+
+.fishing {
+    padding: 0px 20px;
+}
+
+.nature {
+    padding: 0px 20px;
+}
+
+.town {
+    padding: 0px 20px;
+}
+
+.m-bg-color {
+    background-color: #EABDA8;
+}
+
+.card {
+
+    background-color: #CBBFBB;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    
+
+}
+
+#card-text {
+    display: flex;
+    flex-direction: column;
+}
+
+
+#name {
+    font-weight: bold;
+}
+
+#end-p {
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.footer {
+    background-color: #CBBFBB;
+    display: flex;
+    justify-content: center;
+}
+
+#guide {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+}
+
+#name{
+    margin-top: 0px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin-bottom: 0px;
+}
+
+/* 
+*/
+
+/*
+baggrund #61988E
+*/
